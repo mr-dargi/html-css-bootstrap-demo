@@ -1,0 +1,10 @@
+#boxes {
+    /* display: flex;
+    flex-wrap: wrap; */
+    justify-content: space-around;
+}
+
+#boxes div {
+    border: 1px solid black;
+    height: 150px;
+}
